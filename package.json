@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Node package searcher",
   "main": "index.js",
+  "bin": "bin/nps",
   "scripts": {
     "test": "mocha",
     "build": "rm -rf lib && coffee -o lib -c src"
