@@ -1,0 +1,33 @@
+{
+  "name": "nps",
+  "version": "1.0.0",
+  "description": "Node package searcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha spec",
+    "build": "rm -rf lib && coffee -o lib -c src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/genki/nps.git"
+  },
+  "keywords": [
+    "npm",
+    "search",
+    "package"
+  ],
+  "author": "Genki Takiuchi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/genki/nps/issues"
+  },
+  "homepage": "https://github.com/genki/nps#readme",
+  "devDependencies": {
+    "argv": "0.0.2",
+    "cheerio-httpcli": "^0.3.3",
+    "coffee-script": "^1.10.0",
+    "colors": "^1.1.2",
+    "mocha": "^2.3.2"
+  },
+  "dependencies": {}
+}
