@@ -1,5 +1,5 @@
 {
-  "name": "nps",
+  "name": "@genki/nps",
   "version": "1.0.0",
   "description": "Node package searcher",
   "main": "index.js",
