@@ -16,7 +16,7 @@ npm install -g npf
 npf <search words>
 ```
 
-If the resulti are more than 1 page, you can fetch next page by
+If the results are more than 1 page, you can fetch next page by
 hitting `[ENTER]` key.
 
 # License
