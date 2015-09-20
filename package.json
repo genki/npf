@@ -27,8 +27,6 @@
     "cheerio-httpcli": "^0.3.3",
     "coffee-script": "^1.10.0",
     "colors": "^1.1.2",
-    "fiber": "^1.0.4",
-    "fibers": "^1.0.7",
     "mocha": "^2.3.2",
     "sinon": "^1.16.1"
   },
